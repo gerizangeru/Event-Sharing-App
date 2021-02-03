@@ -6,6 +6,7 @@ Features of Idea sharing app
 	
 Group Members
       Name                          ID
+	Bezawit Dereje		    ATE/5135/09
 	Fasil Haymanot              ATE/5268/09
 	Gerizan Tibebe              ATE/5158/09
 	Henock fantahun             ATE/5165/09
