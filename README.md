@@ -1,3 +1,6 @@
+
+https://github.com/Henokked/ideaSharing
+
 # Idea Sharing App
 Features of Idea sharing app
 	Users can signup 
