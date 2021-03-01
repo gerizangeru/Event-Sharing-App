@@ -1,7 +1,12 @@
+# Idea Sharing App
 
+LInks for the api and the ui
+https://github.com/Henokked/ideaSharing-api
 https://github.com/Henokked/ideaSharing
 
-# Idea Sharing App
+
+
+
 Features of Idea sharing app
 	Users can signup 
 	They can Create, Read,Update and Delete ideas
